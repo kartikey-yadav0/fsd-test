@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body bgcolor="gg00ff">
+    
+    <center><h1>Full stack development</h1></center><br>
+    <center><h2>Kartikey yadav</h2></center><br>
+    <center><h3>2300320130131</h3></center><br>
+    <ceter><img src="fsd.jpg" alt="FSD image"></ceter>
+    <p>my name is kartikey yadav currently i am pursuing my bechelor of technology in information technology at ABES engineering collage,ghaziabad</p>
+    <br><hr color="blue" hight="80">
+    <br> my classmate name are given as :<br>
+    <ol>
+        <li>Hartshit verma</li>
+        <li>Avinesh yadav</li>
+        <li>Jatin shing</li>
+        <li>Pawan verma</li>
+    </ol>
+
+
+</body>
+</html>
